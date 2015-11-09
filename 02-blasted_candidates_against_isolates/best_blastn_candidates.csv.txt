@@ -1,0 +1,7 @@
+Summary of best blastn matches in each genome for _Venturia inaequalis AvrRvi5_ candidates.
+Hits with the highest bitscore were considered to be the best hit.
+Manual checks confirmed that these were the longest possible alignments with a percentage identity. This avoided short alignments with perfect % identity.
+
+The table is tab ("\t") separated.
+
+Column names with the prefix 'q' refer to query sequence information and those with  's' refer to the matched sequence.

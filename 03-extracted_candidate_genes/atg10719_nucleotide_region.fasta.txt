@@ -1,0 +1,21 @@
+Nucleotide sequences of putative atg10719 homologs in multiple isolates.
+
+Positions to extract were based on the results of a BLASTn search against each isolate.
+These sequences are the best matching genomic regions ± 200 bases for each candidate.
+
+Sequence ids in the fasta are named as:
+
+	<isolate>-<scaffold>:<start>..<end>
+
+_Venturia inaequalis_ isolates represented in this fasta are:
+
+- B04
+- I17V
+- I19A
+- I31A
+- I37A
+- I5V
+- I61A
+- I65V
+- I9A
+- MNH120

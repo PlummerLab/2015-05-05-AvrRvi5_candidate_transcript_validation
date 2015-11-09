@@ -1,0 +1,32 @@
+BLASTN search of _Venturia inaequalis AvrRvi5_ candidates against a BLAST database constructed from the genome of isolates.
+
+Depends on the fasta file containing candidates '01-extracted_candidates/candidate_gene_sequences.fasta'.
+
+It was constructed with the NCBI BLAST+ 2.2.29 build Jun  7 2014 15:55:48 program 'blastn' with the following command:
+
+```bash
+blastn -out 02-blasted_candidates_against_isolates/blastn_candidates.csv -outfmt "6 qseqid sseqid qstart qend sstart send evalue bitscore length pident sstrand" -query 01-extracted_candidates/candidate_gene_sequences.fasta -db data/combined -evalue 0.1 -num_threads 3
+```
+
+The table is tab ("\t") separated with the following columns (in order):
+
+- qseqid
+- sseqid
+- qstart
+- qend
+- sstart
+- send
+- evalue
+- bitscore
+- length
+- pident
+- sstrand
+
+Column names with the prefix 'q' refer to query sequence information and those with  's' refer to the matched sequence.
+
+These messages came from running the code:
+
+```
+
+
+```

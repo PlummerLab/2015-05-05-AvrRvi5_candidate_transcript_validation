@@ -1,0 +1,9 @@
+The selected primer pair for _AvrRvi5_ candidate atg12487.
+
+The primers have the following properties as identified by primer3.
+
+- The melting temperature of atg12487|pair_32|rev is 58.1278916371582
+- Homodimer structure found in atg12487|pair_32|rev with Tm = -22.823817147101465 and delta G = 0.0.
+- The melting temperature of atg12487|pair_32|fwd is 57.05071727065899
+- Homodimer structure found in atg12487|pair_32|fwd with Tm = -9.610117243968375 and delta G = 0.0.
+- Heterodimer structure found between atg12487|pair_32|rev and atg12487|pair_32|fwd with Tm = -19.11160388501648 and delta G = 10960.505526256238.

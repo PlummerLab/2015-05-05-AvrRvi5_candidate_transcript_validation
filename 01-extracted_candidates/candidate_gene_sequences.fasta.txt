@@ -1,0 +1,5 @@
+DNA sequences of all _AvrRvi5_ gene candidates identified by Jason Shiller in _Venturia inaequalis_ MNH120.
+
+_AvrRvi5_ candidates are listed in 'summary.DNA-seq.RNA-seq.csv' in the data folder.
+
+Sequences were extracted from the genome 'MNH120.genome.masked.fasta' using the gene sequences 'augustus.hints.GeneWithUTR.withNCBI_Fungi.gff3'. These files are found in the 'data' folder.

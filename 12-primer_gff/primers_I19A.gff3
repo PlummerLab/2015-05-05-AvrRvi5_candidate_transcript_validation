@@ -1,0 +1,21 @@
+##gff-version 3
+NODE_48360_length_236681_cov_13.471301	feature	primer	211572	211592	.	-	.	
+NODE_48360_length_236681_cov_13.471301	feature	primer	210670	210690	.	+	.	
+NODE_5720_length_148927_cov_12.616034	feature	primer	97946	97966	.	-	.	
+NODE_5720_length_148927_cov_12.616034	feature	primer	97317	97337	.	+	.	
+NODE_5720_length_148927_cov_12.616034	feature	primer	79439	79459	.	+	.	
+NODE_5720_length_148927_cov_12.616034	feature	primer	80387	80408	.	-	.	
+NODE_4902_length_96281_cov_13.126432	feature	primer	20557	20577	.	-	.	
+NODE_4902_length_96281_cov_13.126432	feature	primer	19762	19782	.	+	.	
+NODE_42405_length_261529_cov_13.653106	feature	primer	225012	225032	.	-	.	
+NODE_42405_length_261529_cov_13.653106	feature	primer	224377	224397	.	+	.	
+NODE_4902_length_96281_cov_13.126432	feature	primer	75204	75224	.	+	.	
+NODE_4902_length_96281_cov_13.126432	feature	primer	75858	75878	.	-	.	
+NODE_4902_length_96281_cov_13.126432	feature	primer	31594	31614	.	+	.	
+NODE_4902_length_96281_cov_13.126432	feature	primer	31883	31903	.	-	.	
+NODE_58364_length_408781_cov_13.412284	feature	primer	382498	382518	.	+	.	
+NODE_58364_length_408781_cov_13.412284	feature	primer	382610	382630	.	-	.	
+NODE_5720_length_148927_cov_12.616034	feature	primer	98932	98952	.	+	.	
+NODE_5720_length_148927_cov_12.616034	feature	primer	100533	100552	.	-	.	
+NODE_5720_length_148927_cov_12.616034	feature	primer	98932	98952	.	+	.	
+NODE_5720_length_148927_cov_12.616034	feature	primer	99419	99439	.	-	.	

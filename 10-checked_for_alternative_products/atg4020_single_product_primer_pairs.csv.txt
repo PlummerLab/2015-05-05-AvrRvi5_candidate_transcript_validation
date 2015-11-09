@@ -1,0 +1,14 @@
+Primer pair candidates for AvrRvi5 candidate atg4020 for all isolates.
+
+Primers were blasted in step 22.
+Here I filtered those BLAST hits and did pairwise testing to see if primer pairs could product products.
+
+Matches were considered significant if the:
+
+- melting temperature of the match was greater than 45.0^oC
+- The 3' end of the actual primer was included in the BLAST hit
+
+Primer pairs were considered to be relevant if:
+- The two primers are on different strands
+- The length of the potential product is less than 8000
+- The primers are on the same scaffold

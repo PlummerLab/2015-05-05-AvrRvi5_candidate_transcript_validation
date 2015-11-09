@@ -1,0 +1,21 @@
+##gff-version 3
+B04S84	feature	primer	160696	160716	.	-	.	
+B04S84	feature	primer	159794	159814	.	+	.	
+B04S209	feature	primer	10121	10141	.	+	.	
+B04S209	feature	primer	10750	10770	.	-	.	
+B04S209	feature	primer	28585	28605	.	-	.	
+B04S209	feature	primer	27636	27657	.	+	.	
+B04S209	feature	primer	93568	93588	.	+	.	
+B04S209	feature	primer	94363	94383	.	-	.	
+B04S196	feature	primer	70303	70323	.	-	.	
+B04S196	feature	primer	69668	69688	.	+	.	
+B04S209	feature	primer	31146	31166	.	-	.	
+B04S209	feature	primer	30492	30512	.	+	.	
+B04S209	feature	primer	82524	82544	.	-	.	
+B04S209	feature	primer	82230	82250	.	+	.	
+B04S181	feature	primer	111786	111806	.	+	.	
+B04S181	feature	primer	111898	111918	.	-	.	
+B04S209	feature	primer	9135	9155	.	-	.	
+B04S209	feature	primer	7535	7554	.	+	.	
+B04S209	feature	primer	9135	9155	.	-	.	
+B04S209	feature	primer	8648	8668	.	+	.	

@@ -1,0 +1,119 @@
+Probable gene orthologs of MNH120 atg10703 in other isolates.
+
+These genes were identified by a BLASTN search of atg10703 against each genome and finding any GFF features that overlap with the highest scoring (by bitscore) alignment.
+
+Probable orthologues:
+
+- Isolate: I65V scaffold: NODE_36919_length_337138_cov_9.006107
+type: CDS
+location: join{[298179:298507](+), [298646:298921](+)}
+id: exon:NS.06392
+qualifiers:
+    Key: ID, Value: ['exon:NS.06392']
+    Key: Parent, Value: ['NS.06392']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: MNH120 scaffold: scaffold_996
+type: CDS
+location: join{[68793:69121](+), [69260:69538](+)}
+id: 101259
+qualifiers:
+    Key: ID, Value: ['101259']
+    Key: Parent, Value: ['atg10703.t1']
+    Key: gene_id, Value: ['atg10703']
+    Key: source, Value: ['AUGUSTUS_Train120estTranscript']
+
+- Isolate: I17V scaffold: NODE_17153_length_617906_cov_9.525179
+type: CDS
+location: join{[317964:318292](-), [317550:317825](-)}
+id: exon:NS.01955
+qualifiers:
+    Key: ID, Value: ['exon:NS.01955']
+    Key: Parent, Value: ['NS.01955']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I19A scaffold: NODE_4902_length_96281_cov_13.126432
+type: CDS
+location: join{[75579:75907](-), [75165:75440](-)}
+id: exon:NS.07945
+qualifiers:
+    Key: ID, Value: ['exon:NS.07945']
+    Key: Parent, Value: ['NS.07945']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: B04 scaffold: B04S209
+type: CDS
+location: join{[30371:30789](+), [30910:31206](+)}
+id: B04S209.g10057.t3.cds
+qualifiers:
+    Key: ID, Value: ['B04S209.g10057.t3.cds']
+    Key: Parent, Value: ['B04S209.g10057.t3']
+    Key: source, Value: ['AUGUSTUS_B04Masked']
+type: CDS
+location: join{[30461:30789](+), [30910:31206](+)}
+id: B04S209.g10057.t1.cds
+qualifiers:
+    Key: ID, Value: ['B04S209.g10057.t1.cds']
+    Key: Parent, Value: ['B04S209.g10057.t1']
+    Key: source, Value: ['AUGUSTUS_B04Masked']
+type: CDS
+location: join{[30494:30789](+), [30910:31206](+)}
+id: B04S209.g10057.t2.cds
+qualifiers:
+    Key: ID, Value: ['B04S209.g10057.t2.cds']
+    Key: Parent, Value: ['B04S209.g10057.t2']
+    Key: source, Value: ['AUGUSTUS_B04Masked']
+
+- Isolate: I31A scaffold: NODE_13850_length_40609_cov_7.450984
+type: CDS
+location: join{[20365:20693](+), [20832:21107](+)}
+id: exon:exon.CUFF.2464.2.2
+qualifiers:
+    Key: ID, Value: ['exon:exon.CUFF.2464.2.2']
+    Key: Parent, Value: ['exon.CUFF.2464.2.2']
+    Key: source, Value: ['CodingQuarry_v1.1']
+type: CDS
+location: [20365:20758](+)
+id: CDS:exon.CUFF.2464.1.0
+qualifiers:
+    Key: ID, Value: ['CDS:exon.CUFF.2464.1.0']
+    Key: Parent, Value: ['exon.CUFF.2464.1.0']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I9A scaffold: NODE_13661_length_107724_cov_12.738434
+type: CDS
+location: join{[29600:29928](+), [30067:30342](+)}
+id: exon:NS.00662
+qualifiers:
+    Key: ID, Value: ['exon:NS.00662']
+    Key: Parent, Value: ['NS.00662']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I37A scaffold: NODE_28325_length_1062677_cov_11.556614
+type: CDS
+location: [888560:888953](-)
+id: CDS:NS.06632
+qualifiers:
+    Key: ID, Value: ['CDS:NS.06632']
+    Key: Parent, Value: ['NS.06632']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I61A scaffold: NODE_12812_length_323635_cov_9.417337
+type: CDS
+location: join{[169868:170196](+), [170335:170610](+)}
+id: exon:NS.01625
+qualifiers:
+    Key: ID, Value: ['exon:NS.01625']
+    Key: Parent, Value: ['NS.01625']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I5V scaffold: NODE_36160_length_249094_cov_15.165792
+type: CDS
+location: join{[8648:8976](-), [8234:8509](-)}
+id: exon:exon.CUFF.11283.1.0
+qualifiers:
+    Key: ID, Value: ['exon:exon.CUFF.11283.1.0']
+    Key: Parent, Value: ['exon.CUFF.11283.1.0']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+

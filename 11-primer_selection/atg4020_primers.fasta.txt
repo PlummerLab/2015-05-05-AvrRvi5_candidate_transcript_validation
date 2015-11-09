@@ -1,0 +1,9 @@
+The selected primer pair for _AvrRvi5_ candidate atg4020.
+
+The primers have the following properties as identified by primer3.
+
+- The melting temperature of atg4020|pair_52|fwd is 58.21867132187418
+- Homodimer structure found in atg4020|pair_52|fwd with Tm = -37.59158734762835 and delta G = 0.0.
+- The melting temperature of atg4020|pair_52|rev is 58.833952631243676
+- Homodimer structure found in atg4020|pair_52|rev with Tm = -16.34631016658267 and delta G = 0.0.
+- Heterodimer structure found between atg4020|pair_52|fwd and atg4020|pair_52|rev with Tm = -1.380475226997362 and delta G = 986.0945218729612.

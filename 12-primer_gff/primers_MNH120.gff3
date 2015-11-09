@@ -1,0 +1,21 @@
+##gff-version 3
+scaffold_978	feature	primer	243435	243455	.	+	.	
+scaffold_978	feature	primer	244337	244357	.	-	.	
+scaffold_48	feature	primer	6130	6150	.	-	.	
+scaffold_48	feature	primer	5501	5521	.	+	.	
+scaffold_893	feature	primer	100383	100403	.	-	.	
+scaffold_893	feature	primer	99434	99455	.	+	.	
+scaffold_996	feature	primer	123839	123859	.	+	.	
+scaffold_996	feature	primer	124634	124654	.	-	.	
+scaffold_38	feature	primer	24330	24350	.	+	.	
+scaffold_38	feature	primer	24965	24985	.	-	.	
+scaffold_996	feature	primer	69478	69498	.	-	.	
+scaffold_996	feature	primer	68824	68844	.	+	.	
+scaffold_996	feature	primer	112513	112533	.	+	.	
+scaffold_996	feature	primer	112802	112822	.	-	.	
+scaffold_554	feature	primer	5908	5928	.	+	.	
+scaffold_554	feature	primer	6020	6040	.	-	.	
+scaffold_48	feature	primer	7116	7136	.	+	.	
+scaffold_48	feature	primer	8717	8736	.	-	.	
+scaffold_48	feature	primer	7116	7136	.	+	.	
+scaffold_48	feature	primer	7603	7623	.	-	.	

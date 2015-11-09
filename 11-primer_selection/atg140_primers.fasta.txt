@@ -1,0 +1,10 @@
+The selected primer pair for _AvrRvi5_ candidate atg140.
+
+The primers have the following properties as identified by primer3.
+
+- The melting temperature of atg140|pair_0|rev is 58.01404948665049
+- Homodimer structure found in atg140|pair_0|rev with Tm = -3.290742036329675 and delta G = 0.0.
+- The melting temperature of atg140|pair_0|fwd is 58.2811671529646
+- Hairpin structure found in atg140|pair_0|fwd with Tm = 43.6411563925642 and delta G = -385.7344978145629.
+- Homodimer structure found in atg140|pair_0|fwd with Tm = -10.08920898219202 and delta G = -385.7344978145629.
+- Heterodimer structure found between atg140|pair_0|rev and atg140|pair_0|fwd with Tm = -26.475087032144955 and delta G = 5922.011015313561.

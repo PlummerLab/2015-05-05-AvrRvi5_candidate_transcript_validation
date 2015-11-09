@@ -1,0 +1,9 @@
+The selected primer pair for _AvrRvi5_ candidate atg10724.
+
+The primers have the following properties as identified by primer3.
+
+- The melting temperature of atg10724|pair_0|fwd is 57.60211451417666
+- Homodimer structure found in atg10724|pair_0|fwd with Tm = 3.4185195679210096 and delta G = 0.0.
+- The melting temperature of atg10724|pair_0|rev is 58.299470060671695
+- Homodimer structure found in atg10724|pair_0|rev with Tm = 2.912772925710783 and delta G = 0.0.
+- Heterodimer structure found between atg10724|pair_0|fwd and atg10724|pair_0|rev with Tm = -22.6148792902913 and delta G = 10295.007519690625.

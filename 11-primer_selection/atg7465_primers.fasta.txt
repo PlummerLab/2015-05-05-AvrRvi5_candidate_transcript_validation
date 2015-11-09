@@ -1,0 +1,17 @@
+The selected primer pair for _AvrRvi5_ candidate atg7465.
+
+The primers have the following properties as identified by primer3.
+
+- The melting temperature of atg7465|pair_39|fwd is 57.96355978556238
+- Hairpin structure found in atg7465|pair_39|fwd with Tm = 38.76214223618831 and delta G = -114.68449781456366.
+- Homodimer structure found in atg7465|pair_39|fwd with Tm = 1.0065287512061332 and delta G = -114.68449781456366.
+- The melting temperature of atg7465|pair_39|rev|var_1 is 57.61353613233899
+- Hairpin structure found in atg7465|pair_39|rev|var_1 with Tm = 39.336596417869146 and delta G = -132.35049781456473.
+- Homodimer structure found in atg7465|pair_39|rev|var_1 with Tm = -4.14028464348371 and delta G = -132.35049781456473.
+- The melting temperature of atg7465|pair_39|rev|var_0 is 58.03838531942375
+- Hairpin structure found in atg7465|pair_39|rev|var_0 with Tm = 39.336596417869146 and delta G = -132.35049781456473.
+- Homodimer structure found in atg7465|pair_39|rev|var_0 with Tm = -12.83697215232371 and delta G = -132.35049781456473.
+- Heterodimer structure found between atg7465|pair_39|fwd and atg7465|pair_39|rev|var_1 with Tm = -13.063218661555709 and delta G = -1244.8839890635209.
+- Heterodimer structure found between atg7465|pair_39|fwd and atg7465|pair_39|rev|var_0 with Tm = -13.063218661555709 and delta G = -1244.8839890635209.
+- Heterodimer structure found between atg7465|pair_39|rev|var_1 and atg7465|pair_39|rev|var_1 with Tm = -4.14028464348371 and delta G = 1676.5065175020864.
+- Heterodimer structure found between atg7465|pair_39|rev|var_1 and atg7465|pair_39|rev|var_0 with Tm = -2.9909302021146686 and delta G = 1721.9005196906219.

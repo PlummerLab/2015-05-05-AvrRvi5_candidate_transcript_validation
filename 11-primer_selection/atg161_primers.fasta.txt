@@ -1,0 +1,11 @@
+The selected primer pair for _AvrRvi5_ candidate atg161.
+
+The primers have the following properties as identified by primer3.
+
+- The melting temperature of atg161|pair_3|fwd is 58.361724669997955
+- Hairpin structure found in atg161|pair_3|fwd with Tm = 38.58546454767088 and delta G = -79.3404978145627.
+- Homodimer structure found in atg161|pair_3|fwd with Tm = -15.545287768126173 and delta G = -79.3404978145627.
+- The melting temperature of atg161|pair_3|rev is 57.70114001266245
+- Hairpin structure found in atg161|pair_3|rev with Tm = 25.742010919141762 and delta G = 1118.6725087541527.
+- Homodimer structure found in atg161|pair_3|rev with Tm = 13.114837689442709 and delta G = 1118.6725087541527.
+- Heterodimer structure found between atg161|pair_3|fwd and atg161|pair_3|rev with Tm = 5.314201169013984 and delta G = -519.6464803093695.

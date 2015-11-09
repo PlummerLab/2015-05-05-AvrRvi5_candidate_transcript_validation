@@ -1,0 +1,87 @@
+Probable gene orthologs of MNH120 atg140 in other isolates.
+
+These genes were identified by a BLASTN search of atg140 against each genome and finding any GFF features that overlap with the highest scoring (by bitscore) alignment.
+
+Probable orthologues:
+
+- Isolate: I65V scaffold: NODE_45951_length_173735_cov_8.953676
+type: CDS
+location: join{[118579:119078](+), [119142:119336](+)}
+id: exon:NS.08059
+qualifiers:
+    Key: ID, Value: ['exon:NS.08059']
+    Key: Parent, Value: ['NS.08059']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: MNH120 scaffold: scaffold_38
+type: CDS
+location: join{[24549:25047](-), [24288:24484](-)}
+id: 1329
+qualifiers:
+
+- Isolate: I17V scaffold: NODE_46667_length_291164_cov_9.505976
+type: CDS
+location: join{[153872:154371](+), [154435:154629](+)}
+id: exon:NS.09529
+qualifiers:
+    Key: ID, Value: ['exon:NS.09529']
+    Key: Parent, Value: ['NS.09529']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I19A scaffold: NODE_42405_length_261529_cov_13.653106
+
+- Isolate: B04 scaffold: B04S196
+type: CDS
+location: join{[69604:70061](+), [70167:70364](+)}
+id: B04S196.g9853.t1.cds
+qualifiers:
+    Key: ID, Value: ['B04S196.g9853.t1.cds']
+    Key: Parent, Value: ['B04S196.g9853.t1']
+    Key: source, Value: ['AUGUSTUS_B04Masked']
+
+- Isolate: I31A scaffold: NODE_34412_length_65699_cov_7.310629
+type: CDS
+location: join{[36027:36526](-), [35769:35963](-)}
+id: exon:NS.07042
+qualifiers:
+    Key: ID, Value: ['exon:NS.07042']
+    Key: Parent, Value: ['NS.07042']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I9A scaffold: NODE_12384_length_154743_cov_13.348035
+type: CDS
+location: join{[38522:39021](-), [38264:38458](-)}
+id: exon:NS.00426
+qualifiers:
+    Key: ID, Value: ['exon:NS.00426']
+    Key: Parent, Value: ['NS.00426']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I37A scaffold: NODE_12110_length_89328_cov_11.475763
+type: CDS
+location: join{[52895:53394](+), [53458:53652](+)}
+id: exon:exon.CUFF.909.2.13
+qualifiers:
+    Key: ID, Value: ['exon:exon.CUFF.909.2.13']
+    Key: Parent, Value: ['exon.CUFF.909.2.13']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I61A scaffold: NODE_3558_length_543958_cov_9.351410
+type: CDS
+location: join{[315346:315845](+), [315909:316103](+)}
+id: exon:NS.08882
+qualifiers:
+    Key: ID, Value: ['exon:NS.08882']
+    Key: Parent, Value: ['NS.08882']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I5V scaffold: NODE_35582_length_606476_cov_15.460932
+type: CDS
+location: join{[417082:417581](-), [416824:417018](-)}
+id: exon:exon.CUFF.10985.1.77
+qualifiers:
+    Key: ID, Value: ['exon:exon.CUFF.10985.1.77']
+    Key: Parent, Value: ['exon.CUFF.10985.1.77']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+

@@ -1,0 +1,98 @@
+Probable gene orthologs of MNH120 atg4020 in other isolates.
+
+These genes were identified by a BLASTN search of atg4020 against each genome and finding any GFF features that overlap with the highest scoring (by bitscore) alignment.
+
+Probable orthologues:
+
+- Isolate: I65V scaffold: NODE_15589_length_243109_cov_8.857146
+type: CDS
+location: [75180:75807](+)
+id: CDS:NS.01359
+qualifiers:
+    Key: ID, Value: ['CDS:NS.01359']
+    Key: Parent, Value: ['NS.01359']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: MNH120 scaffold: scaffold_554
+type: CDS
+location: [5866:6421](-)
+id: 37897
+qualifiers:
+    Key: ID, Value: ['37897']
+    Key: Parent, Value: ['atg4020.t1']
+    Key: gene_id, Value: ['atg4020']
+    Key: source, Value: ['AUGUSTUS_Train120estTranscript']
+
+- Isolate: I17V scaffold: NODE_17153_length_617906_cov_9.525179
+type: CDS
+location: [215182:215809](-)
+id: CDS:NS.01917
+qualifiers:
+    Key: ID, Value: ['CDS:NS.01917']
+    Key: Parent, Value: ['NS.01917']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I19A scaffold: NODE_58364_length_408781_cov_13.412284
+type: CDS
+location: [382312:383011](-)
+id: CDS:NS.09132
+qualifiers:
+    Key: ID, Value: ['CDS:NS.09132']
+    Key: Parent, Value: ['NS.09132']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: B04 scaffold: B04S181
+type: CDS
+location: [111609:112299](-)
+id: B04S181.g9491.t1.cds
+qualifiers:
+    Key: ID, Value: ['B04S181.g9491.t1.cds']
+    Key: Parent, Value: ['B04S181.g9491.t1']
+    Key: source, Value: ['AUGUSTUS_B04Masked']
+
+- Isolate: I31A scaffold: NODE_21443_length_55358_cov_8.053958
+type: CDS
+location: [47429:48128](-)
+id: CDS:NS.02928
+qualifiers:
+    Key: ID, Value: ['CDS:NS.02928']
+    Key: Parent, Value: ['NS.02928']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I9A scaffold: NODE_32689_length_238721_cov_13.631109
+type: CDS
+location: [18580:19279](+)
+id: CDS:NS.05198
+qualifiers:
+    Key: ID, Value: ['CDS:NS.05198']
+    Key: Parent, Value: ['NS.05198']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I37A scaffold: NODE_28325_length_1062677_cov_11.556614
+type: CDS
+location: [787051:787750](-)
+id: CDS:NS.06609
+qualifiers:
+    Key: ID, Value: ['CDS:NS.06609']
+    Key: Parent, Value: ['NS.06609']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I61A scaffold: NODE_3904_length_223933_cov_9.904436
+type: CDS
+location: [11711:12410](+)
+id: CDS:NS.09074
+qualifiers:
+    Key: ID, Value: ['CDS:NS.09074']
+    Key: Parent, Value: ['NS.09074']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I5V scaffold: NODE_5090_length_307152_cov_15.165000
+type: CDS
+location: [151155:151782](+)
+id: CDS:NS.08747
+qualifiers:
+    Key: ID, Value: ['CDS:NS.08747']
+    Key: Parent, Value: ['NS.08747']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+

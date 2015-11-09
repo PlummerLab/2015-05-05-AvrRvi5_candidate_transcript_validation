@@ -1,0 +1,17 @@
+Alignment of putative _Venturia inaequalis_ MNH120 atg140 homologs.
+
+Depends on 03-extracted_candidate_genes/atg140_nucleotide_region.fasta.
+
+Alignments were constructed using T-Coffee Version_11.00.8cbe486 with the following command run from the project base directory:
+
+```
+t_coffee -output fasta_aln,score_html,score_ascii -infile S03-extracted_candidate_genes/atg140_nucleotide_region.fasta -outfile 04-aligned_candidate_regions/atg140_region_aligned.fasta -type dna -mode mcoffee
+```
+
+Note that the preliminary newick tree generated (atg140_nucleotide_region.dnd) were automatically constructed by T-Coffee in the project base directory and were later moved into this folder.
+
+Both a machine readable file 04-aligned_candidate_regions/atg140_region_aligned.fasta and the easy-on-the-eye file 04-aligned_candidate_regions/atg140_region_aligned.fasta.score_html represent the same information.
+
+Sequence ids are named as:
+
+	<isolate>-<scaffold>:<start>..<end>

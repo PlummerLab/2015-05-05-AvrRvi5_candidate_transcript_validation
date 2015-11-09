@@ -1,0 +1,21 @@
+##gff-version 3
+NODE_17153_length_617906_cov_9.525179	feature	primer	414057	414077	.	+	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	414959	414979	.	-	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	355564	355584	.	-	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	354935	354955	.	+	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	320550	320570	.	+	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	321498	321519	.	-	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	222188	222208	.	-	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	221393	221413	.	+	.	
+NODE_46667_length_291164_cov_9.505976	feature	primer	154571	154591	.	-	.	
+NODE_46667_length_291164_cov_9.505976	feature	primer	153936	153956	.	+	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	317589	317609	.	+	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	318243	318263	.	-	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	233228	233248	.	+	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	233522	233542	.	-	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	215296	215316	.	+	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	215408	215428	.	-	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	356550	356570	.	+	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	358151	358170	.	-	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	356550	356570	.	+	.	
+NODE_17153_length_617906_cov_9.525179	feature	primer	357037	357057	.	-	.	

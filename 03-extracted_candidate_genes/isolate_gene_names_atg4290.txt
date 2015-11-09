@@ -1,0 +1,133 @@
+Probable gene orthologs of MNH120 atg4290 in other isolates.
+
+These genes were identified by a BLASTN search of atg4290 against each genome and finding any GFF features that overlap with the highest scoring (by bitscore) alignment.
+
+Probable orthologues:
+
+- Isolate: I65V scaffold: NODE_24852_length_44621_cov_8.994487
+type: CDS
+location: join{[43008:43268](+), [43367:44703](+)}
+id: exon:NS.03341
+qualifiers:
+    Key: ID, Value: ['exon:NS.03341']
+    Key: Parent, Value: ['NS.03341']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: MNH120 scaffold: scaffold_447
+type: CDS
+location: join{[349816:350076](+), [350178:351226](+)}
+id: 40524
+qualifiers:
+    Key: ID, Value: ['40524']
+    Key: Parent, Value: ['atg4290.t1']
+    Key: gene_id, Value: ['atg4290']
+    Key: source, Value: ['AUGUSTUS_Train120estTranscript']
+
+- Isolate: I17V scaffold: NODE_977_length_87750_cov_9.512057
+type: CDS
+location: join{[1036:1296](-), [285:937](-), [181:232](-)}
+id: exon:NS.10937
+qualifiers:
+    Key: ID, Value: ['exon:NS.10937']
+    Key: Parent, Value: ['NS.10937']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I19A scaffold: NODE_31218_length_316586_cov_12.896414
+type: CDS
+location: join{[279647:280256](-), [279525:279600](-)}
+id: exon:NS.04216
+qualifiers:
+    Key: ID, Value: ['exon:NS.04216']
+    Key: Parent, Value: ['NS.04216']
+    Key: source, Value: ['CodingQuarry_v1.1']
+type: CDS
+location: [280406:280667](-)
+id: CDS:exon.CUFF.7506.1.32
+qualifiers:
+    Key: ID, Value: ['CDS:exon.CUFF.7506.1.32']
+    Key: Parent, Value: ['exon.CUFF.7506.1.32']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: B04 scaffold: B04S185
+type: CDS
+location: join{[87133:87393](+), [87495:88762](+)}
+id: B04S185.g9568.t1.cds
+qualifiers:
+    Key: ID, Value: ['B04S185.g9568.t1.cds']
+    Key: Parent, Value: ['B04S185.g9568.t1']
+    Key: source, Value: ['AUGUSTUS_B04Masked']
+type: CDS
+location: [87982:88825](-)
+id: B04S185.g9569.t1.cds
+qualifiers:
+    Key: ID, Value: ['B04S185.g9569.t1.cds']
+    Key: Parent, Value: ['B04S185.g9569.t1']
+    Key: source, Value: ['AUGUSTUS_B04Masked']
+
+- Isolate: I31A scaffold: NODE_16794_length_36353_cov_7.580777
+type: CDS
+location: join{[1222:1482](-), [891:1120](-), [736:829](-)}
+id: exon:NS.01857
+qualifiers:
+    Key: ID, Value: ['exon:NS.01857']
+    Key: Parent, Value: ['NS.01857']
+    Key: source, Value: ['CodingQuarry_v1.1']
+type: CDS
+location: [77:362](-)
+id: CDS:exon.CUFF.3051.1.0
+qualifiers:
+    Key: ID, Value: ['CDS:exon.CUFF.3051.1.0']
+    Key: Parent, Value: ['exon.CUFF.3051.1.0']
+    Key: source, Value: ['CodingQuarry_v1.1']
+type: CDS
+location: [435:630](+)
+id: CDS:NS.01856
+qualifiers:
+    Key: ID, Value: ['CDS:NS.01856']
+    Key: Parent, Value: ['NS.01856']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I9A scaffold: NODE_27298_length_442879_cov_13.117141
+type: CDS
+location: join{[41507:41767](-), [40072:41408](-)}
+id: exon:NS.04387
+qualifiers:
+    Key: ID, Value: ['exon:NS.04387']
+    Key: Parent, Value: ['NS.04387']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I37A scaffold: NODE_6833_length_74308_cov_11.505261
+type: CDS
+location: join{[73360:73969](+), [74016:74091](+)}
+id: exon:NS.08060
+qualifiers:
+    Key: ID, Value: ['exon:NS.08060']
+    Key: Parent, Value: ['NS.08060']
+    Key: source, Value: ['CodingQuarry_v1.1']
+type: CDS
+location: [72949:73210](+)
+id: CDS:exon.CUFF.14724.1.7
+qualifiers:
+    Key: ID, Value: ['CDS:exon.CUFF.14724.1.7']
+    Key: Parent, Value: ['exon.CUFF.14724.1.7']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I61A scaffold: NODE_18101_length_36172_cov_9.591452
+type: CDS
+location: join{[34746:35006](+), [35108:35845](+), [35900:36151](+)}
+id: exon:NS.04873
+qualifiers:
+    Key: ID, Value: ['exon:NS.04873']
+    Key: Parent, Value: ['NS.04873']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I5V scaffold: NODE_45703_length_89380_cov_15.559768
+type: CDS
+location: join{[1130:1390](-), [379:1031](-), [275:326](-)}
+id: exon:NS.08168
+qualifiers:
+    Key: ID, Value: ['exon:NS.08168']
+    Key: Parent, Value: ['NS.08168']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+

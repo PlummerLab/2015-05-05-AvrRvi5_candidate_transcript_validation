@@ -1,0 +1,126 @@
+Probable gene orthologs of MNH120 atg162 in other isolates.
+
+These genes were identified by a BLASTN search of atg162 against each genome and finding any GFF features that overlap with the highest scoring (by bitscore) alignment.
+
+Probable orthologues:
+
+- Isolate: I65V scaffold: NODE_36919_length_337138_cov_9.006107
+type: CDS
+location: join{[259211:259358](+), [259409:259676](+), [259730:259967](+)}
+id: exon:NS.06384
+qualifiers:
+    Key: ID, Value: ['exon:NS.06384']
+    Key: Parent, Value: ['NS.06384']
+    Key: source, Value: ['CodingQuarry_v1.1']
+type: CDS
+location: join{[258275:258408](+), [258462:258641](+), [258691:258811](+)}
+id: exon:NS.06383
+qualifiers:
+    Key: ID, Value: ['exon:NS.06383']
+    Key: Parent, Value: ['NS.06383']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: MNH120 scaffold: scaffold_48
+type: CDS
+location: join{[8629:8762](-), [8396:8575](-), [8245:8346](-), [7857:8197](-), [7679:7796](-), [7361:7628](-), [7067:7307](-)}
+id: 1549
+qualifiers:
+    Key: ID, Value: ['1549']
+    Key: Parent, Value: ['atg162.t1']
+    Key: gene_id, Value: ['atg162']
+    Key: source, Value: ['AUGUSTUS_Train120estTranscript']
+
+- Isolate: I17V scaffold: NODE_17153_length_617906_cov_9.525179
+type: CDS
+location: join{[358063:358196](-), [357830:358009](-), [357609:357631](-), [357113:357286](-), [356795:357062](-), [356504:356741](-)}
+id: exon:NS.01961
+qualifiers:
+    Key: ID, Value: ['exon:NS.01961']
+    Key: Parent, Value: ['NS.01961']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I19A scaffold: NODE_5720_length_148927_cov_12.616034
+type: CDS
+location: join{[100445:100578](-), [100212:100391](-), [100061:100162](-), [99748:100013](-), [99495:99672](-), [99177:99444](-), [98886:99123](-)}
+id: exon:NS.08870
+qualifiers:
+    Key: ID, Value: ['exon:NS.08870']
+    Key: Parent, Value: ['NS.08870']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: B04 scaffold: B04S209
+type: CDS
+location: join{[7507:7640](+), [7694:7873](+), [7923:8024](+), [8072:8412](+), [8473:8590](+), [8641:8908](+), [8962:9202](+)}
+id: B04S209.g10047.t1.cds
+qualifiers:
+    Key: ID, Value: ['B04S209.g10047.t1.cds']
+    Key: Parent, Value: ['B04S209.g10047.t1']
+    Key: source, Value: ['AUGUSTUS_B04Masked']
+type: CDS
+location: join{[7507:7640](+), [7694:7873](+), [7923:8024](+), [8072:8380](+), [8432:8590](+), [8641:8908](+), [8962:9202](+)}
+id: B04S209.g10047.t2.cds
+qualifiers:
+    Key: ID, Value: ['B04S209.g10047.t2.cds']
+    Key: Parent, Value: ['B04S209.g10047.t2']
+    Key: source, Value: ['AUGUSTUS_B04Masked']
+
+- Isolate: I31A scaffold: NODE_32761_length_67348_cov_8.091139
+type: CDS
+location: join{[37332:37465](-), [37099:37278](-), [36941:37049](-), [36878:36900](-), [36382:36555](-), [36064:36331](-), [35773:36010](-)}
+id: exon:NS.06806
+qualifiers:
+    Key: ID, Value: ['exon:NS.06806']
+    Key: Parent, Value: ['NS.06806']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I9A scaffold: NODE_17114_length_106818_cov_13.533281
+type: CDS
+location: join{[69333:69466](-), [69100:69279](-), [68949:69050](-), [68636:68901](-), [68383:68560](-), [68065:68332](-), [67774:68011](-)}
+id: exon:NS.01923
+qualifiers:
+    Key: ID, Value: ['exon:NS.01923']
+    Key: Parent, Value: ['NS.01923']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I37A scaffold: NODE_28325_length_1062677_cov_11.556614
+type: CDS
+location: join{[1010096:1010229](-), [1009863:1010042](-), [1009705:1009813](-), [1009642:1009664](-), [1009146:1009319](-), [1008828:1009095](-), [1008537:1008774](-)}
+id: exon:NS.06639
+qualifiers:
+    Key: ID, Value: ['exon:NS.06639']
+    Key: Parent, Value: ['NS.06639']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I61A scaffold: NODE_9417_length_112597_cov_9.223985
+type: CDS
+location: join{[37022:37155](-), [36789:36968](-), [35754:36021](-), [35463:35700](-)}
+id: exon:NS.11108
+qualifiers:
+    Key: ID, Value: ['exon:NS.11108']
+    Key: Parent, Value: ['NS.11108']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+- Isolate: I5V scaffold: NODE_36160_length_249094_cov_15.165792
+type: CDS
+location: join{[48746:48879](-), [48513:48692](-), [47478:47745](-), [47187:47424](-)}
+id: exon:NS.06847
+qualifiers:
+    Key: ID, Value: ['exon:NS.06847']
+    Key: Parent, Value: ['NS.06847']
+    Key: source, Value: ['CodingQuarry_v1.1']
+type: CDS
+location: join{[48021:48157](-), [47796:47969](-), [47478:47745](-), [47187:47424](-)}
+id: exon:exon.CUFF.11286.1.10
+qualifiers:
+    Key: ID, Value: ['exon:exon.CUFF.11286.1.10']
+    Key: Parent, Value: ['exon.CUFF.11286.1.10']
+    Key: source, Value: ['CodingQuarry_v1.1']
+type: CDS
+location: join{[48746:48879](-), [48513:48692](-), [48343:48463](-)}
+id: exon:exon.CUFF.11286.1.11
+qualifiers:
+    Key: ID, Value: ['exon:exon.CUFF.11286.1.11']
+    Key: Parent, Value: ['exon.CUFF.11286.1.11']
+    Key: source, Value: ['CodingQuarry_v1.1']
+
+

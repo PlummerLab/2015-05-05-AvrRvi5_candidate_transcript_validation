@@ -1,0 +1,9 @@
+{
+    "PRIMER_RIGHT_NUM_RETURNED": 0,
+    "PRIMER_PAIR_NUM_RETURNED": 0,
+    "PRIMER_INTERNAL_EXPLAIN": "considered 0, ok 0",
+    "PRIMER_LEFT_NUM_RETURNED": 0,
+    "PRIMER_LEFT_EXPLAIN": "considered 4850, GC content failed 610, low tm 196, high tm 17, long poly-x seq 6, failed must_match requirements 3518, ok 503",
+    "PRIMER_INTERNAL_NUM_RETURNED": 0,
+    "PRIMER_RIGHT_EXPLAIN": "considered 196, GC content failed 81, failed must_match requirements 115, ok 0"
+}

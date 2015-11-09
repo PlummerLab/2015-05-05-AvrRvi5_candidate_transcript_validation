@@ -1,0 +1,72 @@
+[
+    {
+        "strand": -1,
+        "id": "atg12487",
+        "scaffold": "scaffold_978",
+        "start": 243442,
+        "end": 245087
+    },
+    {
+        "strand": -1,
+        "id": "atg161",
+        "scaffold": "scaffold_48",
+        "start": 5456,
+        "end": 6270
+    },
+    {
+        "strand": -1,
+        "id": "atg162",
+        "scaffold": "scaffold_48",
+        "start": 7067,
+        "end": 8762
+    },
+    {
+        "strand": -1,
+        "id": "atg4020",
+        "scaffold": "scaffold_554",
+        "start": 5866,
+        "end": 6421
+    },
+    {
+        "strand": -1,
+        "id": "atg140",
+        "scaffold": "scaffold_38",
+        "start": 24288,
+        "end": 25047
+    },
+    {
+        "strand": 1,
+        "id": "atg4290",
+        "scaffold": "scaffold_447",
+        "start": 349816,
+        "end": 351226
+    },
+    {
+        "strand": -1,
+        "id": "atg7465",
+        "scaffold": "scaffold_893",
+        "start": 99033,
+        "end": 100911
+    },
+    {
+        "strand": 1,
+        "id": "atg10703",
+        "scaffold": "scaffold_996",
+        "start": 68793,
+        "end": 69538
+    },
+    {
+        "strand": 1,
+        "id": "atg10719",
+        "scaffold": "scaffold_996",
+        "start": 112510,
+        "end": 112881
+    },
+    {
+        "strand": 1,
+        "id": "atg10724",
+        "scaffold": "scaffold_996",
+        "start": 123743,
+        "end": 124680
+    }
+]
